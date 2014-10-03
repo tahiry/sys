@@ -1,4 +1,4 @@
 sys
 ===
 
-Exercice and project related to system
+Exercices and projects related to computer science and more specifically system design
